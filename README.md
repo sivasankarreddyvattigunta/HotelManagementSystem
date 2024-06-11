@@ -70,8 +70,7 @@ hotel-management-system/
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
-##Author 
-
+## Author 
 Vattigunta Siva Sankar Reddy
 
 
